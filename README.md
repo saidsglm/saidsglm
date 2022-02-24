@@ -1,4 +1,4 @@
-### Hi, I'm Said Sağlam. Welcome to my profile.<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px" style="max-width: 100%;"></a> I am a Front-end Developer 💻  and also a Design Engineer. I both draw 🎨 and write 📱.
+### Hi, I'm Said Sağlam. Welcome to my profile. <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px" style="max-width: 100%;"></a>  I am a Front-end Developer 💻  and also a Design Engineer. <br> I both draw 🎨 and write 📱.
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 
 <h2 align='left'> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> </h2>
